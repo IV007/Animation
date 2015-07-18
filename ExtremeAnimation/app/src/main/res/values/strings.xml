@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ExtremeAnimation</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="init">Initializing…</string>
+    <string name="proceed">Proceed</string>
+    <string name="title_activity_swipe">SwipeActivity</string>
+
+    <string name="animDetail"> What your Seeing Right Now - Sensors capture screen motions such as touch and swipe. \nOn user touch, perform action (e.g show toast) \nOn swipe perform animation (e.g make title text blink). </string>
+
+</resources>
